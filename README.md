@@ -1,2 +1,1 @@
-# gmod-mapdb
-Map database for Garry's Mod
+# This the default map database MapDB
